@@ -1,4 +1,4 @@
-### `This project is still in the development process`
+### `This project was just for fun and it isn't fully functional.`
 
 
 # Netflix Clone Web  
