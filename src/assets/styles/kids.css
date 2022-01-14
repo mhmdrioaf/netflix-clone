@@ -1,0 +1,13 @@
+.kids-section-container {
+  min-height: 65vh;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 5vw;
+}
+
+#img-kids {
+  width: 40vw;
+}
